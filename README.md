@@ -3,6 +3,7 @@
 This code is a end result of converting a W3Schools template to React.js.
 
 [View all of the W3Schools Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
+
 [View the Gourmet Catering Template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
 
 ## Tutorial Requirements:
