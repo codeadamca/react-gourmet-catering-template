@@ -1,10 +1,6 @@
 # react-gourmet-catering-template
 
-As a method of learning React.js, I have chosen a W3 HTML/CSS website temaplte and converted it to React.js. This code is the end result of converting a W3Schools template to React.js.
-
-[View all of the W3Schools Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
-
-[View the Gourmet Catering Template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
+As a method of teaching React.js, I have chosen the [Gourmet Catering Template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm) from W3Schools and converted the template to React.js.
 
 ## Tutorial Requirements:
 
