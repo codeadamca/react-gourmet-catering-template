@@ -4,7 +4,7 @@ As a method of teaching React.js, I have chosen the [Gourmet Catering Template](
 
 ***
 
-## Tutorial Requirements:
+## Repo Resources
 
 * [React.js](https://reactjs.org/)
 * [W3Schools](https://www.w3schools.com/) 
